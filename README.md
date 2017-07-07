@@ -1,18 +1,17 @@
 
-
-Project Title
+#Project Title
 
 Classy memory game match & fun
 
-Introduction
+#Introduction
 
 Master	your	memory	is	a	memory	game	derived	from	cognitive	tasks	to	enhance	the	player’s different	mental	skills.	This	app is	composed	of	three	levels	of	difficulty,	Easy,	Medium	and	Hard.	Additionally,	the	app	enables	the	player	to	select	cards	in different	categories	like	animals,	icecreams,etc.	There	is	a	provision	for	the	players	to	view	high	score.	While	doing	so	the player	can	also	create	his	profile	where	he	can	manage	background	sounds	and	other	settings.	So,	when	a	player	selects	a certain	category	the	background	changes	accordingly.	For	example,	if	a	player	chooses	cards	from	animal	category	to	be displayed	the	background	will	have	some	kind	of	feature	that is	related	to	animals. Thus,	it	is	an	app	for	kids	and	adults	to	get a	brain	work	out	anywhere,	anytime.
 
-Application	Requirements
+#Application	Requirements
 
 Min	SDK	Version:	15
 
-Tools Used
+#Tools Used
 
 Android Studio
 Facebook SDK
@@ -22,7 +21,7 @@ Classy memory game match & fun
 
 Play This game - https://play.google.com/store/apps/details?id=com.cs442.apipalia.memorygame
 
-More Information
+#More Information
 
 Memory game is an addictive puzzle game with lot of fun. Master your memory is a memory game derived from cognitive tasks to enhance the player’s different mental skills. Find all the matching pairs of cards and go to the next stage. This game will allow you to challenge your memory. Try to match pairs in as little moves as possible, and flip the cards quickly as the clock is ticking. 
 This memory game is composed of three levels of difficulty, Easy, Medium and Hard.
