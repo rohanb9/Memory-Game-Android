@@ -1,5 +1,6 @@
-
 # Project Title
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frohanb9%2FMemory-Game-Android.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frohanb9%2FMemory-Game-Android?ref=badge_shield)
+
 
 Classy memory game match & fun
 
@@ -52,3 +53,7 @@ o English, Spanish, Chinese
 •	Digital visual effects
 
 Exercise your memory, improve your concentration with this game!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frohanb9%2FMemory-Game-Android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frohanb9%2FMemory-Game-Android?ref=badge_large)
